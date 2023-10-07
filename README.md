@@ -1,49 +1,32 @@
 # Boston Airbnb Data Analysis
 
 ## Objective
-As my first project for Udacity's Data Science Nanodegree, I worked on the data of AirBNB in Boston. There were a few questions I had in mind regarding the dataset that I tried to find. These Questions were the following:
-> The correlation between price and the number of accomodates.
+As part of Udacity's Data Science project, my focus was on the Boston Airbnb dataset. I aimed to address several key questions during my analysis:
 
-> The correlation between price and the number of beds
+> I investigated the correlation between price and the number of accommodations.
 
-> Total number rentals in a month
+> I examined the relationship between price and the number of beds.
 
-> Correlation between review scores and prices based on neighbourhood
+> I sought to determine the total monthly rental activity.
 
-> Correlation of price with the response rate of the host and reviews
+> I explored the correlation between review scores and prices, taking into account different neighborhoods.
 
+> I delved into the correlation between price, host response rate, and reviews.
 
-
-## Libraries Used
-
-> Pandas
-
-> Numpy
-
-> Matplotlib
-
-> Seaborn
-
-
-## Files Used
-
-> lisings.csv
-
-> calender.csv
-
-> reviews.csv
 
 
 ## Result
 
-> More people rented an AirBNB at Boston During Winters peaking during January
+> Winter months, particularly in January, saw a higher influx of Airbnb rentals in Boston.
 
-> Depending upon the Neighbourhood, the price ranges from as low as $40 to almost $350
+> Depending on the neighborhood, rental prices in Boston can vary significantly, ranging from as low as $40 to nearly $350.
 
-> With increase in Accomodates and beds, the the price too increases
+> As the number of accommodations and beds increases, there is a corresponding increase in the rental price.
 
-> The plot above shows the following:
+> The chart displayed above illustrates the following observations:
 
-> A lot of them have a high host response rate which also shows its correlation with a high host acceptance rate
-> A high host response rate also gets you a higher chance of a higher review score
-> A high price also gives a higher chance of getting a higher review probably because either the place of rent is actually good or it could also be psychological
+> Many hosts maintain a substantial host response rate, which correlates with a high host acceptance rate.
+
+> A notable host response rate is also associated with an increased likelihood of receiving higher review scores.
+
+> Higher rental prices appear to be linked to an increased likelihood of achieving higher review scores, possibly indicating the quality of the rental or the influence of psychological factors.
