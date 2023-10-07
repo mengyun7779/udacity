@@ -1,4 +1,4 @@
-# Udacity-Boston-AirBNB-Data-Science
+# Boston Airbnb Data Analysis
 
 ## Objective
 As my first project for Udacity's Data Science Nanodegree, I worked on the data of AirBNB in Boston. There were a few questions I had in mind regarding the dataset that I tried to find. These Questions were the following:
